@@ -3,9 +3,8 @@
 I am m1kecraft.<br>
 I am bad at coding<br>
 At least I try<br>
-- 🔭 I’m currently working on helping with 3kh0 games
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning how to use git
 - 🤔 I’m looking for help with learning JS
-- 💬 Ask me about proxies
-- 📫 Discord: sagherscience#9766
+- 📫 Discord: sagherscience
 <img src="https://readme-jokes.vercel.app/api" alt="Funny joke" />
