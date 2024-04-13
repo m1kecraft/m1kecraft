@@ -13,6 +13,6 @@ At least I try
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning school stuff ig
 - 🤔 I’m looking for help with getting a domain name
-- 📫 Discord: sagherscience
+- 
 - 
 ![Readme jokes](https://readme-jokes.vercel.app/api)
